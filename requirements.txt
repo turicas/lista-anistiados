@@ -1,5 +1,6 @@
 cached-property
 click
+openpyxl==2.5.12
 pymupdf
 requests
 requests-cache

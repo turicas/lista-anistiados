@@ -1,10 +1,12 @@
 *.csv
-*.pdf
 *.db
 *.egg-info/
+*.pdf
 *.pyc
 *.sqlite
 *.sw?
+*.xls
+*.xlsx
 *~
 .*.sw?
 .DS_Store
